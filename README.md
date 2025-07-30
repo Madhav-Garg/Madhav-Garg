@@ -1,4 +1,4 @@
-# Hey! What's up, guys?
+<center># Hey! What's up, guys?</center>
 
 I'm Madhav Garg, a full-stack web developer who loves building clean, responsive, and useful applications. Currently working with core technologies like HTML, CSS, JavaScript, and building dynamic apps using React and Node.js.
 
