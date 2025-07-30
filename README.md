@@ -4,7 +4,7 @@ I'm <strong>Madhav Garg</strong> — a passionate <strong>Full Stack Web Develop
 
 <p align="center"><em>"Code is not just what I do — it's how I think."</em></p>
 
-<hr/>
+___
 
 ### Tech Stack & Tools
 
@@ -12,7 +12,7 @@ I'm <strong>Madhav Garg</strong> — a passionate <strong>Full Stack Web Develop
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,git,github,vscode" />
 </p>
 
-<hr/>
+___
 
 ### GitHub Stats
 
