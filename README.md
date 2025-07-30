@@ -1,30 +1,29 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
----
+<hr />
 
-I'm **Madhav Garg** — a passionate **Full Stack Web Developer** skilled in **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **SQL**, and **NoSQL** databases.  
-I focus on building responsive and real-world web applications using the **MERN stack** and enjoy working on scalable and efficient solutions.
+I'm <strong>Madhav Garg</strong> — a passionate <strong>Full Stack Web Developer</strong> who loves building scalable web apps and solving real-world problems with clean, efficient code.  
+I work mainly with the <strong>MERN stack</strong>, and I'm always exploring new technologies and tools that make development faster, smarter, and better.
 
-<br>
+<p align="center"><em>"Code is not just what I do — it's how I think."</em></p>
 
-*"For me, coding isn't just work — it's a way of thinking."*
-
----
+<hr />
 
 ### 🚀 Tech Stack & Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,py,aws,docker,kubernetes,nginx,graphql,postgres,git,github,vscode" />
+</p>
+
+<hr />
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhav-garg&show_icons=true&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-garg&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
+
 
 
 
