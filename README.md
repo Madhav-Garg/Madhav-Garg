@@ -1,56 +1,33 @@
-<h1 align="center">Hey, what's up guys — I'm Madhav Garg</h1>
+# Hey! What's up, guys?
 
-<p align="center">
-A web developer who enjoys building things that live on the internet.  
-From frontend design to backend logic, I like understanding how everything fits together in a complete web application.
-</p>
+I'm Madhav Garg, a full-stack web developer who loves building clean, responsive, and useful applications. Currently working with core technologies like HTML, CSS, JavaScript, and building dynamic apps using React and Node.js.
 
----
-
-## 🧑‍💻 About Me
-
-I'm a developer focused on writing clean, efficient, and real-world code.  
-I work with both frontend and backend technologies and like building responsive interfaces, working with APIs, and managing data with databases.
-
-- 🔹 Frontend: HTML, CSS, JavaScript, React.js  
-- 🔹 Backend: Node.js, Express.js  
-- 🔹 Databases: MongoDB (NoSQL), MySQL / PostgreSQL (SQL)  
-- 🔹 Currently learning: Backend optimization, API structuring, and deployment
+I enjoy writing code that not only works — but makes sense. Whether it's structuring frontend components or setting up backend APIs, I like keeping things organized and efficient.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,postgres,tailwind" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhav-garg&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-garg&layout=compact&theme=github_dark" />
-</p>
+- **Frontend**: HTML, CSS, JavaScript, React  
+- **Backend**: Node.js, Express  
+- **Databases**: SQL, MongoDB  
+- **Tools**: Git, GitHub, VS Code, Postman
 
 ---
 
-## 📂 Projects
+## 📊 GitHub Stats
 
-> Coming soon: Personal projects, mini apps, and practice work — all built using my current stack.  
-> I believe in learning by building, and I’m currently working on showcasing that here.
-
----
-
-## 📬 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">LinkedIn</a> |
-  <a href="https://twitter.com/YOUR-LINK" target="_blank">Twitter</a> |
-  <a href="mailto:youremail@example.com">Email</a>
-</p>
+[![Madhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhav-garg&show_icons=true&theme=default)](https://github.com/madhav-garg)
 
 ---
 
-<p align="center"><i>Thanks for visiting my profile. I'm always learning, always building.</i></p>
+## 📫 Contact
+
+- 📧 Email: your-email@example.com  
+- 🌐 Portfolio: (if you have one)  
+- 🔗 LinkedIn: (add if available)
+
+---
+
+Thanks for stopping by. More projects and updates coming soon!
+
