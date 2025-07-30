@@ -1,44 +1,52 @@
-# Hey, what's up guys
+<h1 align="center">Hey, What's Up?</h1>
 
-I'm Madhav Garg — a web developer who builds real-world, clean, and useful stuff on the internet.  
-Currently focused on full-stack development using modern tools and frameworks.
+<p align="center">
+I'm <b>Madhav Garg</b> — a Full Stack Web Developer who builds clean, functional web applications using the modern stack.<br>
+Specializing in the MERN stack, I focus on writing scalable code and solving real-world problems.
+</p>
 
-Right now, I'm building projects using:
-
-- HTML & CSS for clean layouts  
-- JavaScript & React for dynamic UIs  
-- Node.js for backend APIs  
-- SQL & MongoDB for structured and flexible data  
-
-I like working on things that solve actual problems, not just practice projects. My focus is always on writing code that’s readable, efficient, and scalable.
+<p align="center"><i>"For me, building is not just coding — it's creating something that works in the real world."</i></p>
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack & Tools
 
-**Frontend**  
-HTML · CSS · JavaScript · React
-
-**Backend**  
-Node.js · Express
-
-**Databases**  
-SQL · MongoDB
-
-**Tools**  
-Git · GitHub · VS Code · Postman
-
----
-
-## GitHub Stats
-
-[![Madhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhav-garg&show_icons=true)](https://github.com/madhav-garg)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+</p>
 
 ---
 
-## Contact
+## 📊 GitHub Stats
 
-Feel free to reach out if you want to collaborate or just say hi.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhav-garg&show_icons=true&theme=default" height="160" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+<!-- Optional social links -->
+<!--
+<a href="https://yourportfolio.com">Portfolio</a> • 
+<a href="https://linkedin.com/in/yourprofile">LinkedIn</a> • 
+<a href="mailto:your-email@example.com">Email</a>
+-->
+Feel free to connect or collaborate — I'm always up for building something meaningful.
+</p>
+
 
 📩 Email: your-email@example.com  
 🌐 Website: (if you have one)  
